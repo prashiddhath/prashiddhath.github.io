@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* **PhD in Computer Science**, Virginia Tech, Blacksburg, VA, USA — Aug 2025 – Present
+* **PhD in Computer Science**, Virginia Tech, Blacksburg, VA, USA (Aug 2025 - Present)
   * Investigating cross-layer coordination between applications, cellular networks, and edge to meet end-to-end SLOs in 5G.
   * Advisors: Dr. Shaddi Hasan and Dr. Bo Ji.
-* **Bachelor of Science in Computer Science**, Constructor University (formerly Jacobs University Bremen), Bremen, Germany — Aug 2019 – Jun 2022
-  * GPA: 1.47 (88%); President's List — ranked within top 10% of graduating class.
+* **Bachelor of Science in Computer Science**, Jacobs University Bremen, Bremen, Germany (Aug 2019 - Jun 2022)
+  * GPA: 1.47 (88%); President's List, ranked within top 10% of graduating class.
   * Thesis: *Evaluation of Resource Allocation in WiFi Networks using Minstrel-HT in user space* (Funded by SupraCoNeX).
   * Completed a graduate-level course in Parallel and Distributed Computing with a 1.0 (highest grade on German scale).
 
 Research Experience
 ======
-* **Fraunhofer Heinrich-Hertz-Institut (5G-COMPASS)**, Berlin, Germany — Sep 2023 – Aug 2025
+* **Fraunhofer Heinrich-Hertz-Institut (5G-COMPASS)**, Berlin, Germany (Sep 2023 - Aug 2025)
   * *Researcher*
   * Independently drove HHI-WN research within the multi-partner 5G-COMPASS consortium (funded by BMDV); prepared official reports for the funding authority.
   * Set up and maintained Linux-based OpenWrt WiFi testbeds for experimental network evaluations.
   * Investigated supervised and reinforcement learning for MAC-layer resource allocation; modeled rate-space relationships using conditional entropy and clustering.
   * Explored joint WiFi and 5G-ORAN integration on a real-world testbed using OpenAirInterface (OAI) and FlexRIC.
 
-* **Nordhausen University of Applied Sciences (SupraCoNeX)**, Bremen, Germany (Remote) — Jun 2021 – Jun 2023
+* **Nordhausen University of Applied Sciences (SupraCoNeX)**, Bremen, Germany, Remote (Jun 2021 - Jun 2023)
   * *Research Assistant*
   * Enabled user-space execution of per-STA MAC-layer resource allocation over multiple Linux-based OpenWrt APs.
   * Built an experimentation toolchain to automate measurements across wireless devices (traffic generation, packet monitoring).
   * Contributed to collection and analysis of large experimental datasets from a WLAN testbed of 40+ WiFi APs.
   * Assisted in implementing Unimodal Thompson Sampling for WiFi rate adaptation, achieving an average 47% improvement over Minstrel-HT.
 
-* **Google Summer of Code (freifunk)**, Berlin, Germany (Remote)
-  * *Mentor: DQN-based Rate Adaptation for IEEE 802.11ac Networks* — May 2025 – Sep 2025
-  * *Mentor: New Transmit Power Control for IEEE 802.11ax WiFi chips* — May 2024 – Sep 2024
-  * *Contributor: Joint Power and Rate Control in User Space* — May 2023 – Sep 2023: Implemented an ACK-based joint power and rate adaptation algorithm, achieving a 15% throughput improvement.
-  * *Contributor: Minstrel-HT TX Rate Control in User Space* — May 2022 – Sep 2022: Developed a user-space implementation of Linux's default Minstrel-HT algorithm, validated on a mesh network of 100+ OpenWrt routers.
+* **Google Summer of Code (freifunk)**, Berlin, Germany, Remote
+  * *Mentor: DQN-based Rate Adaptation for IEEE 802.11ac Networks* (May 2025 - Sep 2025)
+  * *Mentor: New Transmit Power Control for IEEE 802.11ax WiFi chips* (May 2024 - Sep 2024)
+  * *Contributor: Joint Power and Rate Control in User Space* (May 2023 - Sep 2023): Implemented an ACK-based joint power and rate adaptation algorithm, achieving a 15% throughput improvement.
+  * *Contributor: Minstrel-HT TX Rate Control in User Space* (May 2022 - Sep 2022): Developed a user-space implementation of Linux's default Minstrel-HT algorithm, validated on a mesh network of 100+ OpenWrt routers.
 
 Publications
 ======

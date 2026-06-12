@@ -8,8 +8,8 @@ date: 2026-02-01
 location: "Blacksburg, VA, USA"
 ---
 
-Graduate Teaching Assistant for CS3114 Data Structures and Algorithms (Spring 2026), supporting 450+ students.
+Supporting 450+ students in a project-heavy course covering core data structures and algorithm design in Java.
 
-* Hold 14+ weekly office hours supporting students with Java implementations of core data structures and algorithms.
-* Assist with projects involving hash tables, memory managers, tree-based indexing, and external sorting algorithms.
-* Grade programming assignments and provide feedback on algorithmic correctness, efficiency, and code design.
+* Hold 14+ weekly office hours to guide students through implementations of hash tables, memory managers, tree-based indexing structures, and external sorting algorithms.
+* Review and debug student code with emphasis on algorithmic correctness, time and space complexity, and clean software design.
+* Grade programming assignments and provide detailed written feedback to help students understand and correct their mistakes.
