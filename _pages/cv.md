@@ -11,49 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **PhD in Computer Science**, Virginia Tech, Blacksburg, VA, USA — Aug 2025 – Present
+  * Investigating cross-layer coordination between applications, cellular networks, and edge to meet end-to-end SLOs in 5G.
+  * Advisors: Dr. Shaddi Hasan and Dr. Bo Ji.
+* **Bachelor of Science in Computer Science**, Constructor University (formerly Jacobs University Bremen), Bremen, Germany — Aug 2019 – Jun 2022
+  * GPA: 1.47 (88%); President's List — ranked within top 10% of graduating class.
+  * Thesis: *Evaluation of Resource Allocation in WiFi Networks using Minstrel-HT in user space* (Funded by SupraCoNeX).
+  * Completed a graduate-level course in Parallel and Distributed Computing with a 1.0 (highest grade on German scale).
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Fraunhofer Heinrich-Hertz-Institut (5G-COMPASS)**, Berlin, Germany — Sep 2023 – Aug 2025
+  * *Researcher*
+  * Independently drove HHI-WN research within the multi-partner 5G-COMPASS consortium (funded by BMDV); prepared official reports for the funding authority.
+  * Set up and maintained Linux-based OpenWrt WiFi testbeds for experimental network evaluations.
+  * Investigated supervised and reinforcement learning for MAC-layer resource allocation; modeled rate-space relationships using conditional entropy and clustering.
+  * Explored joint WiFi and 5G-ORAN integration on a real-world testbed using OpenAirInterface (OAI) and FlexRIC.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Nordhausen University of Applied Sciences (SupraCoNeX)**, Bremen, Germany (Remote) — Jun 2021 – Jun 2023
+  * *Research Assistant*
+  * Enabled user-space execution of per-STA MAC-layer resource allocation over multiple Linux-based OpenWrt APs.
+  * Built an experimentation toolchain to automate measurements across wireless devices (traffic generation, packet monitoring).
+  * Contributed to collection and analysis of large experimental datasets from a WLAN testbed of 40+ WiFi APs.
+  * Assisted in implementing Unimodal Thompson Sampling for WiFi rate adaptation, achieving an average 47% improvement over Minstrel-HT.
+
+* **Google Summer of Code (freifunk)**, Berlin, Germany (Remote)
+  * *Mentor: DQN-based Rate Adaptation for IEEE 802.11ac Networks* — May 2025 – Sep 2025
+  * *Mentor: New Transmit Power Control for IEEE 802.11ax WiFi chips* — May 2024 – Sep 2024
+  * *Contributor: Joint Power and Rate Control in User Space* — May 2023 – Sep 2023: Implemented an ACK-based joint power and rate adaptation algorithm, achieving a 15% throughput improvement.
+  * *Contributor: Minstrel-HT TX Rate Control in User Space* — May 2022 – Sep 2022: Developed a user-space implementation of Linux's default Minstrel-HT algorithm, validated on a mesh network of 100+ OpenWrt routers.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Cyber Innovation Scholar, Commonwealth Cyber Initiative (CCI) Southwest Virginia — Feb 2026
+* Merit-based tuition scholarship, Constructor University (3 academic years) — Mar 2019
+* Full merit scholarship for entirety of high school, British Model College — 2017/18
+
+Skills
+======
+* **Languages**: Python, C++, C, SQL
+* **Libraries**: Asyncio, ROS, Pandas, NumPy, Matplotlib, Seaborn, Flask
+* **Tools**: LaTeX, Git, VS Code, MySQL, Vim, GNU Make
+* **Platforms**: Linux, Web, Arduino, macOS
+
+Languages
+======
+* English: Proficient (C2) — TOEFL [30R, 29L, 28S, 28W]
+* German: Intermediate (B2)
+* Nepali: Native
+* Hindi: Proficient (C1)

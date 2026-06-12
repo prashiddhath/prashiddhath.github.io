@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "CS3114: Data Structures and Algorithms"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate Teaching Assistant"
+permalink: /teaching/2026-spring-vt-cs3114
+venue: "Virginia Tech, Department of Computer Science"
+date: 2026-02-01
+location: "Blacksburg, VA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Graduate Teaching Assistant for CS3114 Data Structures and Algorithms (Spring 2026), supporting 450+ students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Hold 14+ weekly office hours supporting students with Java implementations of core data structures and algorithms.
+* Assist with projects involving hash tables, memory managers, tree-based indexing, and external sorting algorithms.
+* Grade programming assignments and provide feedback on algorithmic correctness, efficiency, and code design.

@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Algorithms and Data Structures"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Teaching Assistant"
+permalink: /teaching/2022-spring-jacobs-algo
+venue: "Constructor University (formerly Jacobs University Bremen)"
+date: 2022-02-01
+location: "Bremen, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Undergraduate Teaching Assistant for Algorithms and Data Structures (Spring 2022), supporting 100+ students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Held tutorial sessions covering computational and memory complexity, algorithm paradigms, and fundamental data structures.
+* Graded weekly assignments and final exam.

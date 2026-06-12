@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Towards Infrastructure-assisted WiFi Rate Adaptation for Converged Networks with Morpheus"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-mobiarch-morpheus
+excerpt: 'Proposes Morpheus, an infrastructure-assisted WiFi rate adaptation approach for converged WiFi and cellular networks.'
+date: 2024-11-01
+venue: '17th ACM Workshop on Mobility in the Evolving Internet Architecture (MobiArch), Washington, D.C., USA'
+citation: '<b>Prashiddha Dhoj Thapa</b>, Arne Kappen, and Julius Schulz-Zander. &quot;Towards Infrastructure-assisted WiFi Rate Adaptation for Converged Networks with Morpheus.&quot; <i>Proceedings of MobiArch 2024</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Proposes Morpheus, an infrastructure-assisted WiFi rate adaptation approach for converged networks, presented at the 17th ACM MobiArch workshop co-located with ACM MobiCom 2024.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+**Citation:** Prashiddha Dhoj Thapa, Arne Kappen, and Julius Schulz-Zander. "Towards Infrastructure-assisted WiFi Rate Adaptation for Converged Networks with Morpheus." In: *17th ACM Workshop on Mobility in the Evolving Internet Architecture (MobiArch)*, Washington, D.C., USA.
