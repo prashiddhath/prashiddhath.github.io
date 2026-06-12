@@ -13,7 +13,7 @@ Education
 ======
 * **PhD in Computer Science**, Virginia Tech, Blacksburg, VA, USA (Aug 2025 - Present)
   * Investigating cross-layer coordination between applications, cellular networks, and edge to meet end-to-end SLOs in 5G.
-  * Advisors: Dr. Shaddi Hasan and Dr. Bo Ji.
+  * Advisor: Dr. Shaddi Hasan.
 * **Bachelor of Science in Computer Science**, Jacobs University Bremen, Bremen, Germany (Aug 2019 - Jun 2022)
   * GPA: 1.47 (88%); President's List, ranked within top 10% of graduating class.
   * Thesis: *Evaluation of Resource Allocation in WiFi Networks using Minstrel-HT in user space* (Funded by SupraCoNeX).
