@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Download full CV: [PDF](https://drive.google.com/file/d/1MtfdBaZBttn7IVMMPwyMoVXIDFptbaUo/view?usp=sharing)
+
 Education
 ======
 * **PhD in Computer Science**, Virginia Tech, Blacksburg, VA, USA (Aug 2025 - Present)
-  * Investigating cross-layer coordination between applications, cellular networks, and edge to meet end-to-end SLOs in 5G.
-  * Advisor: Dr. Shaddi Hasan.
+  * Investigating cross coordination between applications, cellular networks, and edge to meet end-to-end SLOs in 5G.
+  * Advisor: [Dr. Shaddi Hasan](https://www.shaddih.com/).
 * **Bachelor of Science in Computer Science**, Jacobs University Bremen, Bremen, Germany (Aug 2019 - Jun 2022)
   * GPA: 1.47 (88%); President's List, ranked within top 10% of graduating class.
   * Thesis: *Evaluation of Resource Allocation in WiFi Networks using Minstrel-HT in user space* (Funded by SupraCoNeX).
@@ -22,14 +24,14 @@ Education
 Research Experience
 ======
 * **Fraunhofer Heinrich-Hertz-Institut (5G-COMPASS)**, Berlin, Germany (Sep 2023 - Aug 2025)
-  * *Researcher*
+  * *Researcher, supervised by Dr. Julius Schulz-Zander*
   * Independently drove HHI-WN research within the multi-partner 5G-COMPASS consortium (funded by BMDV); prepared official reports for the funding authority.
   * Set up and maintained Linux-based OpenWrt WiFi testbeds for experimental network evaluations.
   * Investigated supervised and reinforcement learning for MAC-layer resource allocation; modeled rate-space relationships using conditional entropy and clustering.
   * Explored joint WiFi and 5G-ORAN integration on a real-world testbed using OpenAirInterface (OAI) and FlexRIC.
 
 * **Nordhausen University of Applied Sciences (SupraCoNeX)**, Bremen, Germany, Remote (Jun 2021 - Jun 2023)
-  * *Research Assistant*
+  * *Student Research Assistant, supervised by Dr. Thomas Hühn*
   * Enabled user-space execution of per-STA MAC-layer resource allocation over multiple Linux-based OpenWrt APs.
   * Built an experimentation toolchain to automate measurements across wireless devices (traffic generation, packet monitoring).
   * Contributed to collection and analysis of large experimental datasets from a WLAN testbed of 40+ WiFi APs.
@@ -55,9 +57,9 @@ Teaching
 
 Honors and Awards
 ======
-* Cyber Innovation Scholar, Commonwealth Cyber Initiative (CCI) Southwest Virginia — Feb 2026
-* Merit-based tuition scholarship, Constructor University (3 academic years) — Mar 2019
-* Full merit scholarship for entirety of high school, British Model College — 2017/18
+* Cyber Innovation Scholar, Commonwealth Cyber Initiative (CCI) Southwest Virginia (Feb 2026)
+* Merit-based tuition scholarship, Jacobs University Bremen (3 academic years, Mar 2019)
+* Full merit scholarship for entirety of high school, British Model College (2017/18)
 
 Skills
 ======
@@ -68,7 +70,7 @@ Skills
 
 Languages
 ======
-* English: Proficient (C2) — TOEFL [30R, 29L, 28S, 28W]
+* English: Proficient (C2), TOEFL [30R, 29L, 28S, 28W]
 * German: Intermediate (B2)
 * Nepali: Native
 * Hindi: Proficient (C1)
